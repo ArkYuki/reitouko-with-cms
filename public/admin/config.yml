@@ -1,9 +1,9 @@
 site_url: https://elysium.reitouko.cyou
 display_url: https://elysium.reitouko.cyou
-locale: zh
+locale: zh-cn
 backend:
     name: git-gateway
-    branch: master
+    branch: main
 collections:
   - name: "wiki" # Used in routes, e.g., /admin/collections/blog
     label: "Wiki" # Used in the UI
