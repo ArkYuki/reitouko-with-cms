@@ -1,5 +1,5 @@
 backend:
-  - name: git-gateway
+    name: git-gateway
     branch: master
 collections:
   - name: "wiki" # Used in routes, e.g., /admin/collections/blog
