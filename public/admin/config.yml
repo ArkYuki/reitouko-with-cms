@@ -1,3 +1,6 @@
+site_url: https://elysium.reitouko.cyou
+display_url: https://elysium.reitouko.cyou
+locale: zh
 backend:
     name: git-gateway
     branch: master
